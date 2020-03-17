@@ -4,7 +4,7 @@
 import webbrowser
 import sys
 
-
+# testing git command.
 
 def is_contains_chinese(strs):
     for _char in strs:
